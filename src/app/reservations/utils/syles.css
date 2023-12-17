@@ -1,0 +1,9 @@
+/* styles.css */
+.modal {
+  display: none; /* Por defecto, el modal está oculto */
+  /* Estilos adicionales para el modal */
+}
+
+.modal.open {
+  display: block; /* Cuando se agrega la clase 'open', el modal se muestra */
+}
